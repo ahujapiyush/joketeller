@@ -17,7 +17,7 @@ function tellMe(joke){
   
     VoiceRSS.speech({
         key: '981d78b7280441d8a948edc5ebaa5737',
-        src: "maaadarchod",
+        src: joke,
         hl: 'en-in',
         v: 'Linda',
         r: -0.4, 
